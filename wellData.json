@@ -2,7 +2,7 @@
 {
     "accountId": 1000,
     "name": "MARSH 34-18PH",
-    "country": "MARSH 34-18PH",
+    "well": "MARSH 34-18PH",
     "calls": 15,
     "totalDuration": "02:51:02",
     "callRecords": [
@@ -115,7 +115,7 @@
 {
     "accountId": 1001,
     "name": "SCHETTLER 14X-9A",
-    "country": "SCHETTLER 14X-9A",
+    "well": "SCHETTLER 14X-9A",
     "calls": 29,
     "totalDuration": "05:11:53",
     "callRecords": [
@@ -326,7 +326,7 @@
 {
     "accountId": 1002,
     "name": "NELSON 11-2H",
-    "country": "NELSON 11-2H",
+    "well": "NELSON 11-2H",
     "calls": 16,
     "totalDuration": "03:49:30",
     "callRecords": [
@@ -446,7 +446,7 @@
 {
     "accountId": 1003,
     "name": "BONNEVILLE 2-23H",
-    "country": "BONNEVILLE 2-23H",
+    "well": "BONNEVILLE 2-23H",
     "calls": 11,
     "totalDuration": "02:37:15",
     "callRecords": [
