@@ -1,0 +1,530 @@
+[
+{
+    "accountId": 1000,
+    "name": "MARSH 34-18PH",
+    "country": "MARSH 34-18PH",
+    "calls": 15,
+    "totalDuration": "02:51:02",
+    "callRecords": [
+    {
+        "callId": 2000,
+        "switchCode": "SW28",
+        "direction": "IN",
+        "number": "1-986-916-4273 x59519",
+        "duration": 189
+    },
+    {
+        "callId": 2001,
+        "switchCode": "SW30",
+        "direction": "OUT",
+        "number": "734.294.7386 x01338",
+        "duration": 945
+    },
+    {
+        "callId": 2002,
+        "switchCode": "SW40",
+        "direction": "OUT",
+        "number": "301-155-6074",
+        "duration": 643
+    },
+    {
+        "callId": 2003,
+        "switchCode": "SW39",
+        "direction": "OUT",
+        "number": "1-696-546-3093",
+        "duration": 388
+    },
+    {
+        "callId": 2004,
+        "switchCode": "SW30",
+        "direction": "OUT",
+        "number": "967-601-7865",
+        "duration": 469
+    },
+    {
+        "callId": 2005,
+        "switchCode": "SW24",
+        "direction": "OUT",
+        "number": "1-981-288-5618",
+        "duration": 859
+    },
+    {
+        "callId": 2006,
+        "switchCode": "SW37",
+        "direction": "OUT",
+        "number": "194.169.4324 x825",
+        "duration": 436
+    },
+    {
+        "callId": 2007,
+        "switchCode": "SW29",
+        "direction": "IN",
+        "number": "977-609-4267 x8465",
+        "duration": 521
+    },
+    {
+        "callId": 2008,
+        "switchCode": "SW34",
+        "direction": "OUT",
+        "number": "968.795.0808",
+        "duration": 868
+    },
+    {
+        "callId": 2009,
+        "switchCode": "SW30",
+        "direction": "OUT",
+        "number": "1-707-689-1469 x48099",
+        "duration": 256
+    },
+    {
+        "callId": 2010,
+        "switchCode": "SW42",
+        "direction": "IN",
+        "number": "195-038-9574 x396",
+        "duration": 120
+    },
+    {
+        "callId": 2011,
+        "switchCode": "SW36",
+        "direction": "OUT",
+        "number": "(860) 555-1477 x89445",
+        "duration": 60
+    },
+    {
+        "callId": 2012,
+        "switchCode": "SW18",
+        "direction": "IN",
+        "number": "493-984-8503 x94387",
+        "duration": 577
+    },
+    {
+        "callId": 2013,
+        "switchCode": "SW25",
+        "direction": "OUT",
+        "number": "(602) 401-0354 x4487",
+        "duration": 99
+    },
+    {
+        "callId": 2014,
+        "switchCode": "SW38",
+        "direction": "OUT",
+        "number": "077.234.4358 x6638",
+        "duration": 232
+    }]
+},
+{
+    "accountId": 1001,
+    "name": "SCHETTLER 14X-9A",
+    "country": "SCHETTLER 14X-9A",
+    "calls": 29,
+    "totalDuration": "05:11:53",
+    "callRecords": [
+    {
+        "callId": 2015,
+        "switchCode": "SW30",
+        "direction": "IN",
+        "number": "(437) 352-4553 x57084",
+        "duration": 211
+    },
+    {
+        "callId": 2016,
+        "switchCode": "SW22",
+        "direction": "OUT",
+        "number": "1-451-995-1434 x4018",
+        "duration": 729
+    },
+    {
+        "callId": 2017,
+        "switchCode": "SW24",
+        "direction": "IN",
+        "number": "1-570-502-5546 x56081",
+        "duration": 817
+    },
+    {
+        "callId": 2018,
+        "switchCode": "SW24",
+        "direction": "OUT",
+        "number": "1-080-294-0465",
+        "duration": 305
+    },
+    {
+        "callId": 2019,
+        "switchCode": "SW22",
+        "direction": "OUT",
+        "number": "723-032-2299 x6040",
+        "duration": 15
+    },
+    {
+        "callId": 2020,
+        "switchCode": "SW36",
+        "direction": "OUT",
+        "number": "031-899-0301",
+        "duration": 150
+    },
+    {
+        "callId": 2021,
+        "switchCode": "SW37",
+        "direction": "IN",
+        "number": "878-190-9618 x86810",
+        "duration": 551
+    },
+    {
+        "callId": 2022,
+        "switchCode": "SW34",
+        "direction": "IN",
+        "number": "934.035.1895",
+        "duration": 658
+    },
+    {
+        "callId": 2023,
+        "switchCode": "SW40",
+        "direction": "IN",
+        "number": "1-216-168-0145",
+        "duration": 800
+    },
+    {
+        "callId": 2024,
+        "switchCode": "SW40",
+        "direction": "OUT",
+        "number": "1-240-399-7455 x0947",
+        "duration": 729
+    },
+    {
+        "callId": 2025,
+        "switchCode": "SW20",
+        "direction": "IN",
+        "number": "023.085.6120 x55061",
+        "duration": 169
+    },
+    {
+        "callId": 2026,
+        "switchCode": "SW35",
+        "direction": "OUT",
+        "number": "1-591-385-4637",
+        "duration": 667
+    },
+    {
+        "callId": 2027,
+        "switchCode": "SW43",
+        "direction": "IN",
+        "number": "272.509.1059 x2453",
+        "duration": 807
+    },
+    {
+        "callId": 2028,
+        "switchCode": "SW21",
+        "direction": "IN",
+        "number": "687-451-1457 x10448",
+        "duration": 366
+    },
+    {
+        "callId": 2029,
+        "switchCode": "SW28",
+        "direction": "OUT",
+        "number": "338-214-0402 x7176",
+        "duration": 737
+    },
+    {
+        "callId": 2030,
+        "switchCode": "SW32",
+        "direction": "OUT",
+        "number": "(229) 581-1292 x499",
+        "duration": 691
+    },
+    {
+        "callId": 2031,
+        "switchCode": "SW40",
+        "direction": "OUT",
+        "number": "329.603.1527",
+        "duration": 338
+    },
+    {
+        "callId": 2032,
+        "switchCode": "SW31",
+        "direction": "OUT",
+        "number": "408-905-1021 x5373",
+        "duration": 14
+    },
+    {
+        "callId": 2033,
+        "switchCode": "SW23",
+        "direction": "OUT",
+        "number": "673-365-2961",
+        "duration": 661
+    },
+    {
+        "callId": 2034,
+        "switchCode": "SW43",
+        "direction": "OUT",
+        "number": "(663) 639-7991 x617",
+        "duration": 939
+    },
+    {
+        "callId": 2035,
+        "switchCode": "SW31",
+        "direction": "IN",
+        "number": "1-419-535-3335 x6904",
+        "duration": 734
+    },
+    {
+        "callId": 2036,
+        "switchCode": "SW40",
+        "direction": "IN",
+        "number": "(045) 525-8359 x1891",
+        "duration": 142
+    },
+    {
+        "callId": 2037,
+        "switchCode": "SW27",
+        "direction": "OUT",
+        "number": "1-413-660-9802 x21167",
+        "duration": 660
+    },
+    {
+        "callId": 2038,
+        "switchCode": "SW32",
+        "direction": "IN",
+        "number": "(240) 861-5542 x41178",
+        "duration": 436
+    },
+    {
+        "callId": 2039,
+        "switchCode": "SW33",
+        "direction": "OUT",
+        "number": "(472) 373-0098 x657",
+        "duration": 392
+    },
+    {
+        "callId": 2040,
+        "switchCode": "SW20",
+        "direction": "OUT",
+        "number": "424-979-2248 x427",
+        "duration": 892
+    },
+    {
+        "callId": 2041,
+        "switchCode": "SW32",
+        "direction": "OUT",
+        "number": "(572) 143-7064",
+        "duration": 691
+    },
+    {
+        "callId": 2042,
+        "switchCode": "SW35",
+        "direction": "IN",
+        "number": "1-272-376-3775 x83152",
+        "duration": 557
+    },
+    {
+        "callId": 2043,
+        "switchCode": "SW20",
+        "direction": "IN",
+        "number": "(552) 777-0694",
+        "duration": 255
+    }]
+},
+{
+    "accountId": 1002,
+    "name": "NELSON 11-2H",
+    "country": "NELSON 11-2H",
+    "calls": 16,
+    "totalDuration": "03:49:30",
+    "callRecords": [
+    {
+        "callId": 2044,
+        "switchCode": "SW27",
+        "direction": "IN",
+        "number": "1-009-690-3585 x268",
+        "duration": 330
+    },
+    {
+        "callId": 2045,
+        "switchCode": "SW29",
+        "direction": "OUT",
+        "number": "259.576.4390",
+        "duration": 939
+    },
+    {
+        "callId": 2046,
+        "switchCode": "SW30",
+        "direction": "OUT",
+        "number": "(341) 944-6828 x68329",
+        "duration": 319
+    },
+    {
+        "callId": 2047,
+        "switchCode": "SW18",
+        "direction": "OUT",
+        "number": "696.015.8254 x549",
+        "duration": 829
+    },
+    {
+        "callId": 2048,
+        "switchCode": "SW43",
+        "direction": "OUT",
+        "number": "(185) 280-4072 x38690",
+        "duration": 146
+    },
+    {
+        "callId": 2049,
+        "switchCode": "SW22",
+        "direction": "OUT",
+        "number": "372.647.0010 x62694",
+        "duration": 509
+    },
+    {
+        "callId": 2050,
+        "switchCode": "SW26",
+        "direction": "OUT",
+        "number": "(207) 733-2262 x6342",
+        "duration": 926
+    },
+    {
+        "callId": 2051,
+        "switchCode": "SW18",
+        "direction": "OUT",
+        "number": "1-805-465-9712 x982",
+        "duration": 902
+    },
+    {
+        "callId": 2052,
+        "switchCode": "SW31",
+        "direction": "IN",
+        "number": "143.570.2906 x88629",
+        "duration": 742
+    },
+    {
+        "callId": 2053,
+        "switchCode": "SW31",
+        "direction": "OUT",
+        "number": "(637) 635-9285 x8632",
+        "duration": 101
+    },
+    {
+        "callId": 2054,
+        "switchCode": "SW43",
+        "direction": "OUT",
+        "number": "270-791-4012 x3840",
+        "duration": 619
+    },
+    {
+        "callId": 2055,
+        "switchCode": "SW35",
+        "direction": "OUT",
+        "number": "1-257-211-9175 x999",
+        "duration": 556
+    },
+    {
+        "callId": 2056,
+        "switchCode": "SW22",
+        "direction": "OUT",
+        "number": "684.112.9964 x2495",
+        "duration": 717
+    },
+    {
+        "callId": 2057,
+        "switchCode": "SW26",
+        "direction": "OUT",
+        "number": "780-419-9248",
+        "duration": 919
+    },
+    {
+        "callId": 2058,
+        "switchCode": "SW26",
+        "direction": "OUT",
+        "number": "1-115-261-7962",
+        "duration": 966
+    },
+    {
+        "callId": 2059,
+        "switchCode": "SW43",
+        "direction": "OUT",
+        "number": "(711) 100-2136 x569",
+        "duration": 650
+    }]
+},
+{
+    "accountId": 1003,
+    "name": "BONNEVILLE 2-23H",
+    "country": "BONNEVILLE 2-23H",
+    "calls": 11,
+    "totalDuration": "02:37:15",
+    "callRecords": [
+    {
+        "callId": 2060,
+        "switchCode": "SW41",
+        "direction": "IN",
+        "number": "615-541-0308",
+        "duration": 774
+    },
+    {
+        "callId": 2061,
+        "switchCode": "SW28",
+        "direction": "IN",
+        "number": "005-773-6167",
+        "duration": 839
+    },
+    {
+        "callId": 2062,
+        "switchCode": "SW26",
+        "direction": "IN",
+        "number": "1-879-218-1714",
+        "duration": 729
+    },
+    {
+        "callId": 2063,
+        "switchCode": "SW33",
+        "direction": "IN",
+        "number": "1-042-403-5641 x164",
+        "duration": 500
+    },
+    {
+        "callId": 2064,
+        "switchCode": "SW37",
+        "direction": "IN",
+        "number": "(865) 910-4254 x328",
+        "duration": 614
+    },
+    {
+        "callId": 2065,
+        "switchCode": "SW31",
+        "direction": "IN",
+        "number": "060.158.2028 x62170",
+        "duration": 90
+    },
+    {
+        "callId": 2066,
+        "switchCode": "SW38",
+        "direction": "OUT",
+        "number": "326-591-0834",
+        "duration": 121
+    },
+    {
+        "callId": 2067,
+        "switchCode": "SW21",
+        "direction": "IN",
+        "number": "219-980-2768 x48410",
+        "duration": 415
+    },
+    {
+        "callId": 2068,
+        "switchCode": "SW25",
+        "direction": "OUT",
+        "number": "(255) 942-4769",
+        "duration": 482
+    },
+    {
+        "callId": 2069,
+        "switchCode": "SW37",
+        "direction": "IN",
+        "number": "643.342.8434 x75235",
+        "duration": 415
+    },
+    {
+        "callId": 2070,
+        "switchCode": "SW30",
+        "direction": "OUT",
+        "number": "387-883-1386",
+        "duration": 856
+    }]
+}]
