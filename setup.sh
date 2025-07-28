@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -e
 
+# Initialize npm project
+npm init -y
+
 # Install dependencies (requires network access)
 #apt-get update
 #apt-get install -y nodejs npm
